@@ -1,7 +1,10 @@
 {
   "name": "movieApp",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "linuxAndroidStudioPath": "/snap/android-studio/current/android-studio/bin/studio.sh"
+    }
   },
-  "type": "angular"
+  "type": "angular",
+  "linuxAndroidStudioPath": "/snap/android-studio/current/android-studio/bin/studio.sh"
 }
